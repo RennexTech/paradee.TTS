@@ -5,6 +5,8 @@ A GUI for paradee TTS another TTS that is 10x faster on CPU compared to Kokoro w
 
 Produce audio instantly.
 
+Create a venv and install your requirements in there, then run python paradee_studio.py to launch it.
+
 Requirements - pygame soundfile numpy and a few more things you find inside the bat file. 
 
 The models are downlaoded to your machine. 8mb.
