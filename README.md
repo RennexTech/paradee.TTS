@@ -1,7 +1,7 @@
 # paradee.TTS
 A GUI for paradee TTS another TTS that is 10x faster on CPU compared to Kokoro with the same quality...
 
-<img width="1043" height="892" alt="image" src="https://github.com/user-attachments/assets/3812deed-3047-4a48-898d-e194e8292ba7" />
+<img width="1043" height="892" alt="image" src="https://github.com/user-attachments/assets/08bbde33-668e-4dc6-ab35-c94aad7ec60e" />
 
 Produce audio instantly.
 
